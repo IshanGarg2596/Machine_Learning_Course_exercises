@@ -1,0 +1,2 @@
+// cost func regularised linear regression second term
+(lambda / (2 * m))*(theta*theta');
